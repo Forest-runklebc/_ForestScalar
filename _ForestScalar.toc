@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: _ForestScalar
+## Notes: ForestScalar is designed to keep original of character frames when UI is scaled down
+ForestScalar.lua
+ForestScalar.xml
